@@ -1,0 +1,12 @@
+{
+  "name": "JAM-Stack-ToDo-Application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/waqaswahid1/JAM-Stack-ToDo-Application.git",
+  "author": "Waqas Wahid <waqas_wahid001@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
