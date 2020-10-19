@@ -2,6 +2,6 @@ import React from "react";
 
 export default props => (
     <div>
-        Hello 
+        <h1>Hello World </h1>
     </div>
 );
